@@ -1,2 +1,2 @@
 # 2017JDD-Finance
-Credit demand forecast
+The competition website:http://jddjr.jd.com/item/3Credit
